@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 13 10:33:45 BRT 2024
+#Fri Dec 13 11:46:09 BRT 2024
 javax.inject-1.jar>central=
+javax.inject-1.jar>maven-fab-agrupado-internet-ccarj=
 javax.inject-1.pom>central=
 javax.inject-1.pom>maven-fab-agrupado-internet-ccarj=

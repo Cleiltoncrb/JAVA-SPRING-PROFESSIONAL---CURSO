@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 13 11:45:23 BRT 2024
+slf4j-api-2.0.16.jar>my-repo2=
+slf4j-api-2.0.16.pom>my-repo2=

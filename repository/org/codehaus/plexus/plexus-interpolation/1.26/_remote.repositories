@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 13 10:33:45 BRT 2024
+#Fri Dec 13 11:46:09 BRT 2024
 plexus-interpolation-1.26.jar>central=
+plexus-interpolation-1.26.jar>maven-fab-agrupado-internet-ccarj=
 plexus-interpolation-1.26.pom>central=
 plexus-interpolation-1.26.pom>maven-fab-agrupado-internet-ccarj=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 13 11:45:27 BRT 2024
+c2b966ab5d0ef78dfb5a8250671bfb4fec244a54@proxybrasilia.intraer\:8080>@default-my-repo2-https\://repo1.maven.org/maven2/.lastUpdated=1734101126177
+http\://nexus.ccarj.intraer/repository/maven-fab-agrupado-internet-ccarj/.lastUpdated=1734101127061
+https\://repo1.maven.org/maven2/.error=Could not transfer artifact org.xmlunit\:xmlunit-core\:jar\:2.10.0 from/to my-repo2 (https\://repo1.maven.org/maven2/)\: status code\: 407, reason phrase\: authenticationrequired (407)

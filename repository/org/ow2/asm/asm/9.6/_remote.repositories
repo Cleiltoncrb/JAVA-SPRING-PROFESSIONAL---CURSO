@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 13 10:33:45 BRT 2024
+#Fri Dec 13 11:45:19 BRT 2024
 asm-9.6.jar>central=
+asm-9.6.jar>my-repo2=
 asm-9.6.pom>central=
 asm-9.6.pom>maven-fab-agrupado-internet-ccarj=
