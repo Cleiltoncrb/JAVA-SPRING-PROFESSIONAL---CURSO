@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 13 10:33:45 BRT 2024
+maven-jar-plugin-3.4.1.jar>central=
+maven-jar-plugin-3.4.1.jar>maven-fab-agrupado-internet-ccarj=
+maven-jar-plugin-3.4.1.pom>central=
+maven-jar-plugin-3.4.1.pom>maven-fab-agrupado-internet-ccarj=

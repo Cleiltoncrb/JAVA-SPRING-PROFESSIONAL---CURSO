@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 13 10:33:45 BRT 2024
+plexus-build-api-0.0.7.jar>central=
+plexus-build-api-0.0.7.pom>central=
+plexus-build-api-0.0.7.pom>maven-fab-agrupado-internet-ccarj=
